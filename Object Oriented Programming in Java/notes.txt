@@ -46,3 +46,7 @@ Vogella Eclipse tutorial
 Again, feel free to use the discussion forums - there's an active community of learners who are happy to help!
 
 
+**********************************************************************************************************
+
+http://unfoldingmaps.org/tutorials/mapprovider-and-tiles.html#
+
