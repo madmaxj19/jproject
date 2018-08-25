@@ -16,3 +16,33 @@ Acknowledgements
 We are extremely grateful to Till Nagel and the team at the University of Applied Sciences Potsdam and all other contributors to Unfolding Maps, a library for interactive maps and geovisualizations. (http://unfoldingmaps.org/)
 
 As part of this package, the SQLite library (version 3.7.2) is included. We gratefully acknowledge xerial.org for creating this Java library (https://bitbucket.org/xerial/sqlite-jdbc/) and D. Richard Hipp for the development of SQLite.
+
+
+*************************************************************************************************************************************
+
+As we discussed before, this is an intermediate programming course in Java. We recognize that some of you may not have an extensive background in Java, and that's okay! Everyone needs help sometimes.
+
+So we want to share with you some external resources which might help. Remember that if you get stuck, please post in the discussion forums so the community can help you!
+
+External Resources
+
+For Java Basics: Duke's Java Programming: An Introduction to Software Specialization (including the first two courses in the Object Oriented Programming in Java specialization)
+
+For Java libraries and utilities: Java API
+
+Java tutorials, from basic to advanced:
+
+The Java Tutorials
+tutorialspoint Java tutorials
+Guru99 Java tutorials
+Learn Java tutorial
+For using Unfolding Maps in the Project: Unfolding Maps
+
+For questions about using Eclipse:
+
+Eclipse Help
+tutorialspoint Eclipse tutorial
+Vogella Eclipse tutorial
+Again, feel free to use the discussion forums - there's an active community of learners who are happy to help!
+
+
